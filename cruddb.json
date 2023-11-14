@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Midhun K M",
+      "email": "Midhun17@gmail.com",
+      "age": "22",
+      "gender": "Male",
+      "id": "Xyb_UF7"
+    },
+    {
+      "name": "Rohit",
+      "email": "Rohit45@gmail.com",
+      "age": "35",
+      "gender": "Male",
+      "id": "L-Od0m5"
+    },
+    {
+      "name": "Maxwell",
+      "email": "Max45@gmail.com",
+      "age": "33",
+      "gender": "Male",
+      "id": "VYQJLsJ"
+    },
+    {
+      "name": "Virat",
+      "email": "virat18@gmail.com",
+      "age": "35",
+      "gender": "Male",
+      "id": "u78G1NG"
+    },
+    {
+      "name": "Gill",
+      "email": "Gill77@gmail.com",
+      "age": "24",
+      "gender": "Male",
+      "id": "auQmkQ9"
+    },
+    {
+      "name": "Sara",
+      "email": "sara11@gmail.com",
+      "age": "23",
+      "gender": "Female",
+      "id": "NMEOVYw"
+    }
+  ]
+}
